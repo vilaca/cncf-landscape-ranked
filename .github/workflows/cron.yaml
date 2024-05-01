@@ -1,5 +1,6 @@
 name: Get daily stats
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 19 * * *"
 jobs:
