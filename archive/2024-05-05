@@ -1,0 +1,764 @@
+119809|golang/go|BSD 3-Clause "New" or "Revised" License|The Go programming language
+106966|kubernetes/kubernetes|Apache License 2.0|Production-Grade Container Scheduling and Management
+93220|rust-lang/rust|Other|Empowering everyone to build reliable and efficient software.
+75723|opencv/opencv|Apache License 2.0|Open Source Computer Vision Library
+68277|netdata/netdata|GNU General Public License v3.0|The open-source observability platform everyone needs!
+67712|elastic/elasticsearch|Other|Free and Open, Distributed, RESTful Search Engine
+64919|redis/redis|Other|Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+61231|ansible/ansible|GNU General Public License v3.0|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+60505|grafana/grafana|GNU Affero General Public License v3.0|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+59487|kelseyhightower/nocode|Apache License 2.0|The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+53929|caddyserver/caddy|Apache License 2.0|Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+52866|prometheus/prometheus|Apache License 2.0|The Prometheus monitoring system and time series database.
+48034|traefik/traefik|MIT License|The Cloud Native Application Proxy
+47576|JetBrains/kotlin|null|The Kotlin Programming Language. 
+46436|etcd-io/etcd|Apache License 2.0|Distributed reliable key-value store for the most critical data of a distributed system
+46101|serverless/serverless|MIT License|⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
+44355|minio/minio|GNU Affero General Public License v3.0|The Object Store for AI Data Infrastructure
+42555|FFmpeg/FFmpeg|Other|Mirror of https://git.ffmpeg.org/ffmpeg.git
+41235|hashicorp/terraform|Other|Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+40781|grpc/grpc|Apache License 2.0|The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+40050|apache/dubbo|Apache License 2.0|The java implementation of Apache Dubbo. An RPC and microservice framework.
+38419|apache/spark|Apache License 2.0|Apache Spark - A unified analytics engine for large-scale data processing
+37569|Kong/kong|Apache License 2.0|🦍 The Cloud-Native API Gateway and AI Gateway.
+36982|getsentry/sentry|Other|Developer-first error tracking and performance monitoring
+36170|pingcap/tidb|Apache License 2.0|TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+35027|istio/istio|Apache License 2.0|Connect, secure, control, and observe services.
+34292|ClickHouse/ClickHouse|Apache License 2.0|ClickHouse® is a free analytics DBMS for big data
+32424|docker/compose|Apache License 2.0|Define and run multi-container applications with Docker
+31469|harness/gitness|Apache License 2.0|Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+30836|hasura/graphql-engine|Apache License 2.0|Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+30824|ziglang/zig|MIT License|General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+29707|hashicorp/vault|Other|A tool for secrets management, encryption as a service, and privileged access management
+29127|cockroachdb/cockroach|Other|CockroachDB - the open source, cloud-native distributed SQL database.
+29081|alibaba/nacos|Apache License 2.0|an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+28959|portainer/portainer|zlib License|Making Docker and Kubernetes management easy.
+28791|apolloconfig/apollo|Apache License 2.0|Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+28404|kubernetes/minikube|Apache License 2.0|Run Kubernetes locally
+28291|OAI/OpenAPI-Specification|Apache License 2.0|The OpenAPI Specification Repository
+27836|hashicorp/consul|Other|Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+27807|influxdata/influxdb|Apache License 2.0|Scalable datastore for metrics, events, and real-time analytics
+27685|zeromicro/go-zero|MIT License|A cloud-native Go microservices framework with cli tool for productivity.
+27410|apache/kafka|Apache License 2.0|Mirror of Apache Kafka
+26534|rethinkdb/rethinkdb|Other|The open-source database for the realtime web.
+26525|k3s-io/k3s|Apache License 2.0|Lightweight Kubernetes
+26466|backstage/backstage|Apache License 2.0|Backstage is an open platform for building developer portals
+26080|helm/helm|Apache License 2.0|The Kubernetes Package Manager
+25724|llvm/llvm-project|Other|The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+25482|mongodb/mongo|Other|The MongoDB Database
+25173|emscripten-core/emscripten|Other|Emscripten: An LLVM-to-WebAssembly Compiler
+24952|apache/incubator-seata|Apache License 2.0|:fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+24549|openfaas/faas|MIT License|OpenFaaS - Serverless Functions Made Simple
+24132|firecracker-microvm/firecracker|Apache License 2.0|Secure and fast microVMs for serverless computing.
+23964|envoyproxy/envoy|Apache License 2.0|Cloud-native high-performance edge/middle/service proxy
+23928|dragonflydb/dragonfly|Other|A modern replacement for Redis and Memcached
+23605|gitlabhq/gitlabhq|Other|GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+23460|grafana/k6|GNU Affero General Public License v3.0|A modern load testing tool, using Go and JavaScript - https://k6.io
+23315|dapr/dapr|Apache License 2.0|Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+23290|apache/skywalking|Apache License 2.0|APM, Application Performance Monitoring System
+23196|apache/flink|Apache License 2.0|Apache Flink
+22827|taosdata/TDengine|GNU Affero General Public License v3.0|TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
+22681|v8/v8|Other|The official mirror of the V8 Git repository
+22555|goharbor/harbor|Apache License 2.0|An open source trusted cloud native registry project that stores, signs, and scans content.
+22552|rancher/rancher|Apache License 2.0|Complete container management platform
+22479|go-kratos/kratos|MIT License|Your ultimate Go microservices framework for the cloud-native era.
+22428|jenkinsci/jenkins|MIT License|Jenkins automation server
+22265|grafana/loki|GNU Affero General Public License v3.0|Like Prometheus, but for logs.
+21973|alibaba/Sentinel|Apache License 2.0|A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+21804|containers/podman|Apache License 2.0|Podman: A tool for managing OCI containers and pods.
+21436|aquasecurity/trivy|Apache License 2.0|Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+21234|jhipster/generator-jhipster|Apache License 2.0|JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+20601|opentofu/opentofu|Mozilla Public License 2.0|OpenTofu lets you declaratively manage your cloud infrastructure.
+20579|apache/rocketmq|Apache License 2.0|Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+20264|nginx/nginx|null|An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
+20242|sst/sst|MIT License|Build modern full-stack applications on AWS
+20073|dgraph-io/dgraph|Other|The high-performance database for modern applications
+19971|keycloak/keycloak|Apache License 2.0|Open Source Identity and Access Management For Modern Applications and Services
+19966|pulumi/pulumi|Apache License 2.0|Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+19515|jaegertracing/jaeger|Apache License 2.0|CNCF Jaeger, a Distributed Tracing Platform
+19455|apache/shardingsphere|Apache License 2.0|Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
+18628|cilium/cilium|Apache License 2.0|eBPF-based Networking, Security, and Observability
+18231|slimtoolkit/slim|Apache License 2.0|Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+18010|qdrant/qdrant|Apache License 2.0|Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+17874|vitessio/vitess|Apache License 2.0|Vitess is a database clustering system for horizontal scaling of MySQL.
+17840|wasmerio/wasmer|MIT License|🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+16742|openzipkin/zipkin|Apache License 2.0|Zipkin is a distributed tracing system
+16597|gravitational/teleport|GNU Affero General Public License v3.0|The easiest, and most secure way to access and protect all of your infrastructure.
+16571|vectordotdev/vector|Mozilla Public License 2.0|A high-performance observability data pipeline.
+16507|timescale/timescaledb|Other|An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+16376|containerd/containerd|Apache License 2.0|An open and reliable container runtime
+16220|argoproj/argo-cd|Apache License 2.0|Declarative Continuous Deployment for Kubernetes
+16161|gradle/gradle|Apache License 2.0|Adaptable, fast automation for all
+15904|apache/brpc|Apache License 2.0|brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".
+15607|prestodb/presto|Apache License 2.0|The official home of the Presto distributed SQL query engine for big data
+15562|kubernetes/kops|Apache License 2.0|Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+15393|kubernetes-sigs/kubespray|Apache License 2.0|Deploy a Production Ready Kubernetes Cluster
+15172|getsops/sops|Mozilla Public License 2.0|Simple and flexible tool for managing secrets
+15118|google/gvisor|Apache License 2.0|Application Kernel for Containers
+15104|ory/hydra|Apache License 2.0|OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
+14920|hashicorp/packer|Other|Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+14818|nats-io/nats-server|Apache License 2.0|High-Performance server for NATS.io, the cloud and edge native messaging system.
+14777|postgres/postgres|Other|Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+14721|PrefectHQ/prefect|Apache License 2.0|Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+14687|GoogleContainerTools/skaffold|Apache License 2.0|Easy and Repeatable Kubernetes Development
+14533|tikv/tikv|Apache License 2.0|Distributed transactional key-value database, originally created to complement TiDB
+14523|tinygo-org/tinygo|Other|Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+14517|bytecodealliance/wasmtime|Apache License 2.0|A fast and secure runtime for WebAssembly
+14450|hashicorp/nomad|Other|Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+14371|kubesphere/kubesphere|Apache License 2.0|The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+14344|apache/hadoop|Apache License 2.0|Apache Hadoop
+14161|dotnet/runtime|MIT License|.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+14020|lima-vm/lima|Apache License 2.0|Linux virtual machines, with a focus on running containers
+14012|elastic/logstash|Other|Logstash - transport and process your logs, events, or other data
+14002|apple/foundationdb|Apache License 2.0|FoundationDB - the open source, distributed, transactional key-value store
+13961|GoogleContainerTools/kaniko|Apache License 2.0|Build Container Images In Kubernetes
+13867|saltstack/salt|Apache License 2.0|Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: 
+13763|apache/pulsar|Apache License 2.0|Apache Pulsar - distributed pub-sub messaging system
+13710|apache/apisix|Apache License 2.0|The Cloud-Native API Gateway
+13699|kubeflow/kubeflow|Apache License 2.0|Machine Learning Toolkit for Kubernetes
+13360|arangodb/arangodb|Other|🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+13266|ceph/ceph|Other|Ceph is a distributed object, block, and file storage platform 
+13264|emqx/emqx|Other|The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles
+13227|pinpoint-apm/pinpoint|Apache License 2.0|APM, (Application Performance Management) tool for large-scale distributed systems. 
+13211|Netflix/zuul|Apache License 2.0|Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+13203|apache/druid|Apache License 2.0|Apache Druid: a high performance real-time analytics database.
+13122|quarkusio/quarkus|Apache License 2.0|Quarkus: Supersonic Subatomic Java. 
+12930|akka/akka|Other|Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+12799|kubernetes-sigs/kind|Apache License 2.0|Kubernetes IN Docker - local clusters for testing Kubernetes
+12599|thanos-io/thanos|Apache License 2.0|Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+12589|scylladb/scylladb|GNU Affero General Public License v3.0|NoSQL data store using the seastar framework, compatible with Apache Cassandra
+12589|alibaba/tengine|BSD 2-Clause "Simplified" License|A distribution of Nginx with some advanced features
+12560|fluent/fluentd|Apache License 2.0|Fluentd: Unified Logging Layer (project under CNCF)
+12492|neo4j/neo4j|GNU General Public License v3.0|Graphs for Everyone
+12462|sogou/workflow|Apache License 2.0|C++ Parallel Computing and Asynchronous Networking Framework
+12239|Netflix/eureka|Apache License 2.0|AWS Service registry for resilient mid-tier load balancing and failover.
+12140|openresty/openresty|Other|High Performance Web Platform Based on Nginx and LuaJIT
+12035|apache/dolphinscheduler|Apache License 2.0|Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+12009|rust-lang/cargo|Apache License 2.0|The Rust package manager
+12002|elastic/beats|Other|:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
+11947|rook/rook|Apache License 2.0|Storage Orchestration for Kubernetes
+11940|apache/zookeeper|Apache License 2.0|Apache ZooKeeper
+11824|coredns/coredns|Apache License 2.0|CoreDNS is a DNS server that chains plugins
+11616|rabbitmq/rabbitmq-server|Other|Open source RabbitMQ: core server and tier 1 (built-in) plugins
+11493|cert-manager/cert-manager|Apache License 2.0|Automatically provision and manage TLS certificates in Kubernetes
+11441|opencontainers/runc|Apache License 2.0|CLI tool for spawning and running containers according to the OCI specification
+11423|pyodide/pyodide|Mozilla Public License 2.0|Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
+11389|apache/doris|Apache License 2.0|Apache Doris is an easy-to-use, high performance and unified analytics database.
+11206|apache/tvm|Apache License 2.0|Open deep learning compiler stack for cpu, gpu and specialized accelerators
+10896|VictoriaMetrics/VictoriaMetrics|Apache License 2.0|VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+10375|linkerd/linkerd2|Apache License 2.0|Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+10313|aws/chalice|Apache License 2.0|Python Serverless Microframework for AWS
+10304|Unleash/unleash|Apache License 2.0|Open-source feature management solution built for developers.
+10294|infracost/infracost|Apache License 2.0|Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+10284|mysql/mysql-server|Other|MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+10168|vesoft-inc/nebula|Apache License 2.0|  A distributed, fast open-source graph database featuring horizontal scalability and high availability
+10156|apache/thrift|Apache License 2.0|Apache Thrift
+10110|bytebase/bytebase|Other|The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+10084|easzlab/kubeasz|null|使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
+10052|quay/clair|Apache License 2.0|Vulnerability Static Analysis for Containers
+9834|juicedata/juicefs|Apache License 2.0|JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+9821|dart-lang/sdk|BSD 3-Clause "New" or "Revised" License|The Dart SDK, including the VM, dart2js, core libraries, and more.
+9757|TarsCloud/Tars|BSD 3-Clause "New" or "Revised" License|Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
+9710|kubescape/kubescape|Apache License 2.0|Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+9652|openobserve/openobserve|GNU Affero General Public License v3.0|🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+9599|weaviate/weaviate|BSD 3-Clause "New" or "Revised" License|Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+9442|grafana/pyroscope|GNU Affero General Public License v3.0|Continuous Profiling Platform. Debug performance issues down to a single line of code
+9260|TykTechnologies/tyk|Other|Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+9240|aws/serverless-application-model|Apache License 2.0|The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
+9188|spinnaker/spinnaker|Apache License 2.0|Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+9156|open-policy-agent/opa|Apache License 2.0|Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+9047|dexidp/dex|Apache License 2.0|OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+8853|redpanda-data/redpanda|null|Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
+8837|ccfos/nightingale|Apache License 2.0|An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+8823|rkt/rkt|Apache License 2.0|[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
+8795|crossplane/crossplane|Apache License 2.0|The Cloud Native Control Plane
+8761|opensearch-project/OpenSearch|Apache License 2.0|🔎 Open source distributed and RESTful search engine.
+8720|oauth2-proxy/oauth2-proxy|MIT License|A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+8660|openebs/openebs|Apache License 2.0|Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
+8521|apache/cassandra|Apache License 2.0|Mirror of Apache Cassandra
+8502|yugabyte/yugabyte-db|Other|YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
+8500|flannel-io/flannel|Apache License 2.0|flannel is a network fabric for containers, designed for Kubernetes
+8414|distribution/distribution|Apache License 2.0|The toolkit to pack, ship, store, and deliver container content
+8290|tektoncd/pipeline|Apache License 2.0|A cloud-native Pipeline resource.
+8253|vmware-tanzu/velero|Apache License 2.0|Backup and migrate Kubernetes applications and their persistent volumes
+8203|getanteon/anteon|GNU Affero General Public License v3.0|Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+8197|fission/fission|Apache License 2.0|Fast and Simple Serverless Functions for Kubernetes
+8149|linuxkit/linuxkit|Apache License 2.0|A toolkit for building secure, portable and lean operating systems for containers
+8128|canonical/microk8s|Apache License 2.0|MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
+7965|WasmEdge/WasmEdge|Apache License 2.0|WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+7833|uber/cadence|MIT License|Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+7824|tursodatabase/libsql|MIT License|libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+7797|StarRocks/starrocks|Apache License 2.0|StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.  InfoWorld’s 2023 BOSSIE Award for best open source software.
+7794|kedacore/keda|Apache License 2.0| KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+7598|draios/sysdig|Other|Linux system exploration and troubleshooting tool with first class support for containers
+7534|apache/beam|Apache License 2.0|Apache Beam is a unified programming model for Batch and Streaming data processing.
+7487|chef/chef|Apache License 2.0|Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+7450|attic-labs/noms|Apache License 2.0|The versioned, forkable, syncable database
+7426|oceanbase/oceanbase|Other|OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
+7393|apache/seatunnel|Apache License 2.0|SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+7297|tilt-dev/tilt|Apache License 2.0|Define your dev environment as code. For microservice apps on Kubernetes.
+7294|rustwasm/wasm-bindgen|Apache License 2.0|Facilitating high-level interactions between Wasm modules and JavaScript
+7288|puppetlabs/puppet|Apache License 2.0|Server automation framework and application
+7260|ko-build/ko|Apache License 2.0|Build and deploy Go applications
+7222|open-falcon/falcon-plus|Apache License 2.0| An open-source and enterprise-level monitoring system.
+7219|datafuselabs/databend|Other|𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+7184|concourse/concourse|Apache License 2.0|Concourse is a container-based continuous thing-doer written in Go.
+7170|midwayjs/midway|MIT License|🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
+7134|webiny/webiny-js|Other|Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+7129|WebAssembly/binaryen|Apache License 2.0|Optimizer and compiler/toolchain library for WebAssembly
+7128|deepstreamIO/deepstream.io|MIT License|deepstream.io server
+7123|paritytech/polkadot|GNU General Public License v3.0|Polkadot Node Implementation
+7122|Graylog2/graylog2-server|Other|Free and open log management
+7040|gocd/gocd|Apache License 2.0|Main repository for GoCD - Continuous Delivery server
+7014|operator-framework/operator-sdk|Apache License 2.0|SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+6991|wasm3/wasm3|MIT License|🚀 A fast WebAssembly interpreter and the most universal WASM runtime
+6926|falcosecurity/falco|Apache License 2.0|Cloud Native Runtime Security
+6913|eclipse-che/che|Eclipse Public License 2.0|Kubernetes based Cloud Development Environments for Enterprise Teams
+6870|vmware-archive/kubeless|Apache License 2.0|Kubernetes Native Serverless Framework
+6685|cloudwego/kitex|Apache License 2.0|Go RPC framework with high-performance and strong-extensibility for building micro-services.
+6660|aquasecurity/kube-bench|Apache License 2.0|Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+6654|Alluxio/alluxio|Apache License 2.0|Alluxio, data orchestration for analytics and machine learning in the cloud
+6640|metallb/metallb|Apache License 2.0|A network load-balancer implementation for Kubernetes using standard routing protocols
+6584|weaveworks/weave|Apache License 2.0|Simple, resilient multi-host containers networking and more.
+6557|bridgecrewio/checkov|Apache License 2.0|Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+6544|apache/storm|Apache License 2.0|Apache Storm
+6455|kestra-io/kestra|Apache License 2.0|Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
+6439|kubeedge/kubeedge|Apache License 2.0|Kubernetes Native Edge Computing Framework (project under CNCF)
+6419|chaos-mesh/chaos-mesh|Apache License 2.0|A Chaos Engineering Platform for Kubernetes.
+6410|datreeio/datree|Apache License 2.0|Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io
+6406|WebAssembly/wabt|Apache License 2.0|The WebAssembly Binary Toolkit
+6372|apache/openwhisk|Apache License 2.0|Apache OpenWhisk is an open source serverless cloud platform
+6360|telepresenceio/telepresence|Other|Local development against a remote Kubernetes or OpenShift cluster
+6122|kubevela/kubevela|Apache License 2.0|The Modern Application Platform.
+6078|pachyderm/pachyderm|Apache License 2.0|Data-Centric Pipelines and Data Versioning
+6068|bfenetworks/bfe|Apache License 2.0|A modern layer 7 load balancer from baidu
+6065|luraproject/lura|Other|Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
+5960|fluxcd/flux2|Apache License 2.0|Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+5946|rustwasm/wasm-pack|Apache License 2.0|📦✨ your favorite rust -> wasm workflow tool!
+5913|StackStorm/st2|Apache License 2.0|StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
+5875|hazelcast/hazelcast|Other|Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
+5860|uber/kraken|Apache License 2.0|P2P Docker registry capable of distributing TBs of data in seconds
+5847|graphite-project/graphite-web|Apache License 2.0|A highly scalable real-time graphing system
+5818|weaveworks/scope|Apache License 2.0|Monitoring, visualisation & management for Docker & Kubernetes
+5818|containers/youki|Apache License 2.0|A container runtime written in Rust
+5774|chaosblade-io/chaosblade|Apache License 2.0|An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
+5734|loft-sh/vcluster|Apache License 2.0|vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+5698|easegress-io/easegress|Apache License 2.0|A Cloud Native traffic orchestration system
+5601|longhorn/longhorn|Apache License 2.0|Cloud-Native distributed storage built on and for Kubernetes
+5527|cplusplus/draft|null|C++ standards drafts
+5497|projectcalico/calico|Apache License 2.0|Cloud native networking and network security
+5424|daytonaio/daytona|Apache License 2.0|The Open Source Dev Environment Manager.
+5398|knative/serving|Apache License 2.0|Kubernetes-based, scale-to-zero, request-driven compute
+5369|siderolabs/talos|Mozilla Public License 2.0|Talos Linux is a modern Linux distribution built for Kubernetes.
+5353|cortexproject/cortex|Apache License 2.0|A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+5330|rundeck/rundeck|Apache License 2.0|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+5318|containernetworking/cni|Apache License 2.0|Container Network Interface - networking for Linux containers
+5316|MariaDB/server|GNU General Public License v2.0|MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
+5288|pixie-io/pixie|Apache License 2.0|Instant Kubernetes-Native Application Observability
+5229|cloud-custodian/cloud-custodian|Apache License 2.0|Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+5190|openstack/openstack|Apache License 2.0|Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
+5190|apache/mesos|Apache License 2.0|Apache Mesos
+5160|nuclio/nuclio|Apache License 2.0|High-Performance Serverless event and data processing platform
+5143|kyverno/kyverno|Apache License 2.0|Kubernetes Native Policy Management
+5107|kubevirt/kubevirt|Apache License 2.0|Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+5028|cri-o/cri-o|Apache License 2.0|Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+4951|OpenTSDB/opentsdb|GNU Lesser General Public License v2.1|A scalable, distributed Time Series Database.
+4930|k8sgpt-ai/k8sgpt|Apache License 2.0|Giving Kubernetes Superpowers to everyone
+4929|kata-containers/kata-containers|Apache License 2.0|Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+4873|fermyon/spin|Apache License 2.0|Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
+4869|meshery/meshery|Apache License 2.0|Meshery, the cloud native manager
+4843|apache/hertzbeat|Apache License 2.0|Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+4797|cloudevents/spec|Apache License 2.0|CloudEvents Specification
+4740|fluxcd/flagger|Apache License 2.0|Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+4733|opencost/opencost|Apache License 2.0|Cost monitoring for Kubernetes workloads and cloud costs
+4733|opencost/opencost|Apache License 2.0|Cost monitoring for Kubernetes workloads and cloud costs
+4693|orientechnologies/orientdb|Apache License 2.0|OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries.
+4693|apache/ignite|Apache License 2.0|Apache Ignite
+4654|tsuru/tsuru|BSD 3-Clause "New" or "Revised" License|Open source and extensible Platform as a Service (PaaS).
+4647|m3db/m3|Apache License 2.0|M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
+4637|deepfence/ThreatMapper|Apache License 2.0|Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
+4617|aquasecurity/kube-hunter|Apache License 2.0|Hunt for security weaknesses in Kubernetes clusters
+4585|encoredev/encore|Mozilla Public License 2.0|Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems. 
+4564|tetratelabs/wazero|Apache License 2.0|wazero: the zero dependency WebAssembly runtime for Go developers
+4549|seL4/seL4|Other|The seL4 microkernel
+4547|authzed/spicedb|Apache License 2.0|Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications
+4537|sorintlab/stolon|Apache License 2.0|PostgreSQL cloud native High Availability and more.
+4535|lunatic-solutions/lunatic|Apache License 2.0|Lunatic is an Erlang-inspired runtime for WebAssembly
+4519|jenkins-x/jx|Apache License 2.0|Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
+4518|tenable/terrascan|Apache License 2.0|Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+4518|bytecodealliance/wasm-micro-runtime|Apache License 2.0|WebAssembly Micro Runtime (WAMR)
+4500|gluster/glusterfs|GNU General Public License v2.0|Gluster Filesystem : Build your distributed storage in minutes
+4481|haproxy/haproxy|Other|HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
+4475|strimzi/strimzi-kafka-operator|Apache License 2.0|Apache Kafka® running on Kubernetes
+4428|apache/nifi|Apache License 2.0|Apache NiFi
+4400|liquibase/liquibase|Apache License 2.0|Main Liquibase Source
+4376|openkruise/kruise|Other|Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
+4369|mosn/mosn|Apache License 2.0|The Cloud-Native Network Proxy Platform
+4340|micrometer-metrics/micrometer|Apache License 2.0|An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
+4322|cubefs/cubefs|Apache License 2.0|cloud-native file store
+4319|Flagsmith/flagsmith|BSD 3-Clause "New" or "Revised" License|Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
+4284|emissary-ingress/emissary|Apache License 2.0|open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
+4195|litmuschaos/litmus|Apache License 2.0|Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
+4160|PipelineAI/pipeline|Apache License 2.0|PipelineAI
+4140|cdk8s-team/cdk8s|Apache License 2.0|Define Kubernetes native apps and abstractions using object-oriented programming
+4122|karmada-io/karmada|Apache License 2.0|Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+4091|devspace-sh/devspace|Apache License 2.0|DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+4086|virtual-kubelet/virtual-kubelet|Apache License 2.0|Virtual Kubelet is an open source Kubernetes kubelet implementation.
+4024|bigchaindb/bigchaindb|Apache License 2.0|Meet BigchainDB. The blockchain database.
+3989|solo-io/gloo|Apache License 2.0|The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
+3965|crate/crate|Apache License 2.0|CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
+3944|coroot/coroot|Apache License 2.0|Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.
+3943|external-secrets/external-secrets|Apache License 2.0|External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+3916|werf/werf|Apache License 2.0|A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
+3862|devtron-labs/devtron|Apache License 2.0|Tool integration platform for Kubernetes
+3856|pomerium/pomerium|Apache License 2.0|Pomerium is an identity and context-aware access proxy.
+3811|zabbix/zabbix|GNU General Public License v2.0|Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
+3799|sofastack/sofa-rpc|Apache License 2.0|SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework.
+3799|extism/extism|BSD 3-Clause "New" or "Revised" License|The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+3784|volcano-sh/volcano|Apache License 2.0|A Cloud Native Batch System (Project under CNCF)
+3784|GreptimeTeam/greptimedb|Apache License 2.0|An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
+3735|grafana/mimir|GNU Affero General Public License v3.0|Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+3734|CrunchyData/postgres-operator|Apache License 2.0|Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+3731|AmbientRun/Ambient|Apache License 2.0|The multiplayer game engine
+3710|woodpecker-ci/woodpecker|Apache License 2.0|Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
+3646|grafana/tempo|GNU Affero General Public License v3.0|Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+3640|projectcontour/contour|Apache License 2.0|Contour is a Kubernetes ingress controller using Envoy proxy.
+3638|apache/incubator-heron|Apache License 2.0|Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter
+3531|krustlet/krustlet|Apache License 2.0|Kubernetes Rust Kubelet
+3523|kumahq/kuma|Apache License 2.0|🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
+3487|opentracing/opentracing-go|Apache License 2.0|OpenTracing API for Go. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
+3433|ydb-platform/ydb|Other|YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
+3427|openvswitch/ovs|Apache License 2.0|Open vSwitch
+3422|cloudnative-pg/cloudnative-pg|Apache License 2.0|CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
+3403|metalbear-co/mirrord|MIT License|Connect your local process and your cloud environment, and run local code in cloud conditions.
+3337|tarantool/tarantool|Other|Get your data in RAM. Get compute close to data. Enjoy the performance.
+3331|keploy/keploy|Apache License 2.0|Test generation for Developers. Generate tests and stubs for your application that actually work!
+3328|flipt-io/flipt|GNU General Public License v3.0|Enterprise-ready, GitOps enabled, CloudNative feature management solution
+3316|cilium/hubble|Apache License 2.0|Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+3314|fabric8io/kubernetes-client|Apache License 2.0|Java client for Kubernetes & OpenShift 
+3311|kiali/kiali|Apache License 2.0|Kiali project, observability for the Istio service mesh
+3298|cilium/tetragon|Apache License 2.0|eBPF-based Security Observability and Runtime Enforcement
+3251|moby/swarmkit|Apache License 2.0|A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
+3166|okteto/okteto|Apache License 2.0|Develop your applications directly in your Kubernetes Cluster
+3154|rancher/rke|Apache License 2.0|Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
+3153|memphisdev/memphis|Other|Memphis.dev is a highly scalable and effortless data streaming platform
+3152|grain-lang/grain|GNU Lesser General Public License v3.0|The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
+3108|alibaba/GraphScope|Apache License 2.0|🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba | 一站式图计算系统
+3096|FairwindsOps/polaris|Apache License 2.0|Validation of best practices in your Kubernetes clusters
+3064|buzzfeed/sso|MIT License|sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
+3057|terramate-io/terramate|Mozilla Public License 2.0|Terramate CLI is an open-source Infrastructure as Code (IaC) orchestration tool for Terraform, OpenTofu, Terragrunt, Kubernetes, Pulumi, Cloud Formation, CDK, Azure Resource Manager (ARM), and others.
+3021|zalando/skipper|Other|An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
+3005|microsoft/service-fabric|MIT License|Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
+2997|SUSE/Portus|Apache License 2.0|Authorization service and frontend for Docker registry (v2)
+2996|oam-dev/spec|Other|Open Application Model (OAM).
+2926|keephq/keep|MIT License|The open-source alert management and AIOps platform
+2861|vmware-tanzu/sonobuoy|Apache License 2.0|Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
+2820|lindb/lindb|Apache License 2.0|LinDB is a scalable, high performance, high availability distributed time series database.
+2816|inspec/inspec|Other|InSpec: Auditing and Testing Framework
+2806|rust-lang/crates.io|Apache License 2.0|The Rust package registry
+2798|containers/crun|GNU General Public License v2.0|A fast and lightweight fully featured OCI runtime and C library for running containers
+2793|wasmerio/winterjs|MIT License|Winter is coming... ❄️
+2780|k0sproject/k0s|Other|k0s - The Zero Friction Kubernetes
+2769|apache/avro|Apache License 2.0|Apache Avro is a data serialization system.
+2766|stackrox/kube-linter|Apache License 2.0|KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+2749|gardener/gardener|Apache License 2.0|Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.
+2746|kubernetes-sigs/kui|Apache License 2.0|A hybrid command-line/UI development experience for cloud-native development
+2692|kube-rs/kube|Apache License 2.0|Rust Kubernetes client and controller runtime
+2670|infinyon/fluvio|Apache License 2.0|Lean and mean distributed stream processing system written in rust and web assembly.
+2614|square/keywhiz|Apache License 2.0|A system for distributing and managing secrets
+2598|WAVM/WAVM|BSD 3-Clause "New" or "Revised" License|WebAssembly Virtual Machine
+2583|openservicemesh/osm|Apache License 2.0|Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
+2572|ContainerSSH/ContainerSSH|Apache License 2.0|ContainerSSH: Launch containers on demand
+2569|habitat-sh/habitat|Apache License 2.0|Modern applications with built-in automation
+2557|openstack/swift|Apache License 2.0|OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
+2551|tellerops/teller|Apache License 2.0|Cloud native secrets management for developers - never leave your command line for secrets.
+2531|nestybox/sysbox|Apache License 2.0|An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
+2530|cerbos/cerbos|Apache License 2.0|Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
+2524|FeatureBaseDB/featurebase|Apache License 2.0|A crazy fast analytical database, built on bitmaps. Perfect for ML applications. Learn more at: http://docs.featurebase.com/. Start a Docker instance: https://hub.docker.com/r/featurebasedb/featurebase
+2505|theforeman/foreman|GNU General Public License v3.0|an application that automates the lifecycle of servers 
+2502|apptainer/singularity|Other|Singularity has been renamed to Apptainer as part of us moving the project to the Linux Foundation. This repo has been persisted as a snapshot right before the changes.
+2446|xtdb/xtdb|Mozilla Public License 2.0|An immutable database for application development and time-travel data compliance, with SQL and XTQL. Developed by @juxt
+2426|AppScale/gts|Apache License 2.0|AppScale is an easy-to-manage serverless platform for building and running scalable web and mobile applications on any infrastructure.
+2415|buildpacks/pack|Apache License 2.0|CLI for building apps using Cloud Native Buildpacks
+2398|brigadecore/brigade|Apache License 2.0|Event-driven scripting for Kubernetes
+2390|quay/quay|Apache License 2.0|Build, Store, and Distribute your Applications and Containers
+2371|TIBCOSoftware/flogo|BSD 3-Clause "New" or "Revised" License|Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
+2366|dominant-strategies/go-quai|GNU General Public License v3.0|Official Go Implementation of the Quai Network
+2353|deepflowio/deepflow|Apache License 2.0|:rocket: eBPF-powered observability & zero-code distributed tracing :sparkles:
+2350|SchedMD/slurm|Other|Slurm: A Highly Scalable Workload Manager
+2331|submariner-io/submariner|Apache License 2.0|Networking component for interconnecting Pods and Services across Kubernetes clusters.
+2309|FairwindsOps/goldilocks|Apache License 2.0|Get your resource requests "Just Right"
+2308|unikraft/unikraft|Other|A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
+2308|juju/juju|Other|Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise).
+2307|alibaba/higress|Apache License 2.0|Cloud Native API Gateway | 云原生API网关
+2305|kubernetes-sigs/kwok|Apache License 2.0|Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
+2299|permitio/opal|Apache License 2.0|Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
+2285|openfga/openfga|Apache License 2.0|A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+2275|rancher/rio|Apache License 2.0|Application Deployment Engine for Kubernetes
+2263|near/nearcore|GNU General Public License v3.0|Reference client for NEAR Protocol
+2262|OpenObservability/OpenMetrics|Apache License 2.0|Evolving the Prometheus exposition format into a standard.
+2247|kcp-dev/kcp|Apache License 2.0|Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
+2236|grafana/tanka|Apache License 2.0|Flexible, reusable and concise configuration for Kubernetes
+2228|opencurve/curve|Apache License 2.0|Curve is a sandbox project hosted by the CNCF Foundation. It's cloud-native, high-performance, and easy to operate. Curve is an open-source distributed storage system for block and shared file storage.
+2228|cloudnativelabs/kube-router|Apache License 2.0|Kube-router, a turnkey solution for Kubernetes networking.
+2211|userver-framework/userver|Apache License 2.0|Production-ready C++ Asynchronous Framework with rich functionality
+2196|k8snetworkplumbingwg/multus-cni|Apache License 2.0|A CNI meta-plugin for multi-homed pods in Kubernetes
+2165|bcgit/bc-java|MIT License|Bouncy Castle Java Distribution (Mirror)
+2150|redkubes/otomi-core|Apache License 2.0|Self-hosted PaaS for Kubernetes
+2108|kubesphere/kubekey|Apache License 2.0|Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
+2090|kubero-dev/kubero|GNU General Public License v3.0|A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
+2084|VoltDB/voltdb|GNU Affero General Public License v3.0|Volt Active Data
+2072|kubereboot/kured|Apache License 2.0|Kubernetes Reboot Daemon
+2045|kubeshop/botkube|MIT License|An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
+2021|cloudfoundry/bosh|Apache License 2.0|Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.
+2013|sealerio/sealer|Apache License 2.0|Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
+2010|dragonflyoss/Dragonfly2|Apache License 2.0|Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
+1996|traefik/mesh|Apache License 2.0|Traefik Mesh - Simpler Service Mesh
+1982|lxc/incus|Apache License 2.0|Powerful system container and virtual machine manager 
+1979|FairwindsOps/pluto|Apache License 2.0|A cli tool to help discover deprecated apiVersions in Kubernetes
+1966|pravega/pravega|Apache License 2.0|Pravega - Streaming as a new software defined storage primitive
+1958|Icinga/icinga2|GNU General Public License v2.0|The core of our monitoring platform with a powerful configuration language and REST API.
+1954|trickstercache/trickster|Apache License 2.0|Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
+1952|squat/kilo|Apache License 2.0|Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
+1952|bytecodealliance/javy|Apache License 2.0|JS to WebAssembly toolchain
+1939|inspektor-gadget/inspektor-gadget|Apache License 2.0|The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
+1926|powerfulseal/powerfulseal|Apache License 2.0|A powerful testing tool for Kubernetes clusters.
+1926|kuberhealthy/kuberhealthy|Apache License 2.0|A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
+1918|aws/eks-anywhere|Apache License 2.0|Run Amazon EKS on your own infrastructure 🚀
+1902|Checkmarx/kics|Apache License 2.0|Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
+1901|Azure/azure-functions-host|MIT License|The host/runtime that powers Azure Functions
+1897|poseidon/typhoon|MIT License|Minimal and free Kubernetes distribution with Terraform
+1888|apache/servicecomb-java-chassis|Apache License 2.0|ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features
+1857|sogou/srpc|Apache License 2.0|RPC framework based on C++ Workflow. Supports SRPC, Baidu bRPC, Tencent tRPC, thrift protocols.
+1847|kube-vip/kube-vip|Apache License 2.0|Kubernetes Control Plane Virtual IP and Load-Balancer
+1836|mistio/mist-ce|Apache License 2.0|Mist is an open source, multicloud management platform
+1834|chaostoolkit/chaostoolkit|Apache License 2.0|Chaos Engineering Toolkit & Orchestration for Developers
+1819|kubeovn/kube-ovn|Apache License 2.0|A Bridge between SDN and Cloud Native (Project under CNCF)
+1809|ktock/container2wasm|Apache License 2.0|Container to WASM converter
+1779|gocrane/crane|Apache License 2.0|Crane is a FinOps Platform for Cloud Resource Analytics and Economics in Kubernetes clusters. The goal is not only to help users to manage cloud cost easier but also ensure the quality of applications.  
+1776|nocalhost/nocalhost|Other|Nocalhost is Cloud Native Dev Environment.
+1757|linki/chaoskube|MIT License|chaoskube periodically kills random pods in your Kubernetes cluster.
+1750|spring-cloud/spring-cloud-sleuth|Apache License 2.0|Distributed tracing for spring cloud
+1744|kapicorp/kapitan|Apache License 2.0|Generic templated configuration management for Kubernetes, Terraform and other things
+1740|cloudfoundry/cli|Apache License 2.0|The official command line client for Cloud Foundry
+1735|solo-io/squash|Apache License 2.0|The debugger for microservices
+1715|parseablehq/parseable|GNU Affero General Public License v3.0|Parseable is a log analytics system platform for modern, cloud native workloads
+1675|spiffe/spire|Apache License 2.0|The SPIFFE Runtime Environment
+1669|Yelp/paasta|Apache License 2.0|An open, distributed platform as a service
+1665|Serverless-Devs/Serverless-Devs|Apache License 2.0|:fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
+1662|openyurtio/openyurt|Apache License 2.0|OpenYurt - Extending your native Kubernetes to edge(project under CNCF)
+1649|apecloud/kubeblocks|GNU Affero General Public License v3.0|KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
+1638|kptdev/kpt|Apache License 2.0|Automate Kubernetes Configuration Editing
+1632|runsidekick/sidekick|GNU Affero General Public License v3.0|Sidekick is no longer in service
+1629|headlamp-k8s/headlamp|Apache License 2.0|A Kubernetes web UI that is fully-featured, user-friendly and extensible
+1614|yomorun/yomo|Apache License 2.0|🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
+1605|antrea-io/antrea|Apache License 2.0|Kubernetes networking based on Open vSwitch
+1591|carvel-dev/ytt|Apache License 2.0|YAML templating tool that works on YAML structure instead of text
+1587|moosefs/moosefs|GNU General Public License v2.0|MooseFS – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System (Software-Defined Storage)
+1584|theupdateframework/python-tuf|Apache License 2.0|Python reference implementation of The Update Framework (TUF)
+1568|anchore/anchore-engine|Apache License 2.0|A service that analyzes docker images and scans for vulnerabilities
+1551|TritonDataCenter/smartos-live|null|For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
+1545|apache/eventmesh|Apache License 2.0|EventMesh is a new generation serverless event middleware for building distributed event-driven applications.
+1538|openelb/openelb|Apache License 2.0|Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
+1537|kubeshop/monokle|MIT License|🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
+1532|fluid-cloudnative/fluid|Apache License 2.0|Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF) 
+1530|artifacthub/hub|Apache License 2.0|Find, install and publish Cloud Native packages
+1524|kubefirst/kubefirst|MIT License|The Kubefirst Open Source Platform
+1502|kyma-project/kyma|Apache License 2.0|Kyma is an opinionated set of Kubernetes-based modular building blocks, including all necessary capabilities to develop and run enterprise-grade cloud-native applications.
+1500|siddhi-io/siddhi|Apache License 2.0|Stream Processing and Complex Event Processing Engine
+1500|grafeas/grafeas|Apache License 2.0|Artifact Metadata API
+1488|kube-logging/logging-operator|Apache License 2.0|Logging operator for Kubernetes
+1482|polardb/polardbx-sql|Apache License 2.0|PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.
+1473|dfinity/ic|Other|Internet Computer blockchain source: the client/replica software run by nodes
+1470|chaitin/veinmind-tools|MIT License|veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集
+1463|vdaas/vald|Apache License 2.0|Vald.  A Highly Scalable Distributed Vector Search Engine
+1458|projectcapsule/capsule|Apache License 2.0|Multi-tenancy and policy-based framework for Kubernetes.
+1452|NagiosEnterprises/nagioscore|GNU General Public License v2.0|Nagios Core
+1448|OpenFunction/OpenFunction|Apache License 2.0|Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
+1441|agola-io/agola|Apache License 2.0|Agola: CI/CD Redefined
+1418|apache/carbondata|Apache License 2.0|High performance data store solution
+1411|FairwindsOps/rbac-manager|Apache License 2.0|A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
+1401|spiffe/spiffe|Apache License 2.0|The SPIFFE Project
+1365|lf-edge/ekuiper|Apache License 2.0|Lightweight data stream processing engine for IoT edge
+1357|matanolabs/matano|Apache License 2.0|Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS
+1356|rancher/rke2|Apache License 2.0|null
+1344|Checkmk/checkmk|GNU General Public License v2.0|Checkmk - Best-in-class infrastructure & application monitoring
+1343|motdotla/node-lambda|BSD 2-Clause "Simplified" License|Command line tool to locally run and deploy your node.js application to Amazon Lambda
+1337|aws/eks-distro|Apache License 2.0|Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
+1331|timescale/promscale|Apache License 2.0|[DEPRECATED] Promscale is a unified metric and trace observability backend for Prometheus, Jaeger and OpenTelemetry built on PostgreSQL and TimescaleDB.
+1327|ManageIQ/manageiq|Apache License 2.0|ManageIQ Open-Source Management Platform
+1325|kcl-lang/kcl|Apache License 2.0|KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
+1308|pluralsh/plural|Other|Deploy open source software on Kubernetes in record time. 🚀
+1300|clusternet/clusternet|Apache License 2.0|[CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet
+1295|kubermatic/kubeone|Apache License 2.0|Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
+1289|traceloop/openllmetry|Apache License 2.0|Open-source observability for your LLM application, based on OpenTelemetry
+1286|container-storage-interface/spec|Apache License 2.0|Container Storage Interface (CSI) Specification.
+1280|kubearmor/KubeArmor|Apache License 2.0|Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor).
+1280|OpenSCAP/openscap|GNU Lesser General Public License v2.1|NIST Certified SCAP 1.2 toolkit
+1273|stashed/stash|Other|🛅 Backup your Kubernetes Stateful Applications
+1269|wasmCloud/wasmCloud|Apache License 2.0|wasmCloud allows for simple, secure, distributed application development using WebAssembly components and capability providers.
+1268|oras-project/oras|Apache License 2.0|OCI registry client - managing content like artifacts, images, packages
+1261|openclarity/kubeclarity|Apache License 2.0|KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+1252|skooner-k8s/skooner|Apache License 2.0|Simple Kubernetes real-time dashboard and management.
+1221|fossas/fossa-cli|Mozilla Public License 2.0|Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
+1214|opstrace/opstrace|Apache License 2.0|The Open Source Observability Distribution
+1210|kubeshop/testkube|Other|☸️ Kubernetes-native testing framework for test execution and orchestration
+1204|Edgenesis/shifu|Apache License 2.0|Kubernetes-native IoT gateway
+1202|microcks/microcks|Apache License 2.0|Kubernetes native tool for mocking and testing API and micro-services. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
+1193|loggie-io/loggie|Apache License 2.0|A lightweight, cloud-native data transfer agent and aggregator
+1186|openservicebrokerapi/servicebroker|Apache License 2.0|Open Service Broker API Specification
+1186|koordinator-sh/koordinator|Apache License 2.0|A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc.
+1181|kuasar-io/kuasar|Apache License 2.0|A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
+1174|FDio/vpp|Apache License 2.0|null
+1164|kudobuilder/kudo|Apache License 2.0|Kubernetes Universal Declarative Operator (KUDO)
+1162|OpenNebula/one|Apache License 2.0|The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
+1156|elastic/apm-server|Other|APM Server
+1153|getporter/porter|Apache License 2.0|Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
+1129|infinispan/infinispan|Apache License 2.0|Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
+1122|huaweicloud/Sermant|Apache License 2.0|Sermant, a proxyless service mesh solution based on Javaagent.
+1093|percona/percona-server|Other|Percona Server
+1090|sofastack/sofa-tracer|Apache License 2.0|SOFATracer is a component for the distributed system call trace. And through a unified traceId logging the logs of various network calls in the invoking link. These logs can be used for quick discovery of faults, service governance, etc.
+1090|hazelcast/hazelcast-jet|Other|Distributed Stream and Batch Processing
+1075|thomaspoignant/go-feature-flag|MIT License|GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+1073|stackrox/stackrox|Apache License 2.0|The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
+1067|loft-sh/kiosk|Apache License 2.0|kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
+1059|project-akri/akri|Apache License 2.0|A Kubernetes Resource Interface for the Edge
+1052|aquasecurity/trivy-operator|Apache License 2.0|Kubernetes-native security toolkit
+1049|servicemeshinterface/smi-spec|Apache License 2.0|Service Mesh Interface
+1030|kubermatic/kubermatic|Other|Kubermatic Kubernetes Platform - the Central Kubernetes Management Platform For Any Infrastructure 
+1025|genodelabs/genode|Other|Genode OS Framework
+1018|CosmWasm/cosmwasm|Apache License 2.0|Framework for building smart contracts in Wasm for the Cosmos SDK
+1017|spring-cloud/spring-cloud-function|Apache License 2.0|null
+1016|kubernetes-sigs/scheduler-plugins|Apache License 2.0|Repository for out-of-tree scheduler plugins based on scheduler framework.
+1011|deckhouse/deckhouse|Other|Kubernetes platform from Flant
+1009|Metarget/metarget|Apache License 2.0|Metarget is a framework providing automatic constructions of vulnerable infrastructures.
+1008|neuvector/neuvector|Apache License 2.0|null
+1004|superedge/superedge|Other|An edge-native container management system for edge computing
+999|screwdriver-cd/screwdriver|Other|An open source build platform designed for continuous delivery.
+994|sustainable-computing-io/kepler|Apache License 2.0|Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics
+994|Authing/Authing|MIT License|🔥Authing - IDaaS/IAM solution that can Auth to web and mobile applications.
+980|containerd/runwasi|Apache License 2.0|Facilitates running Wasm / WASI workloads managed by containerd
+979|sensu/sensu-go|MIT License|Simple. Scalable. Multi-cloud monitoring.
+978|aserto-dev/topaz|Apache License 2.0|Cloud-native authorization for modern applications and APIs
+975|lucky-sideburn/kubeinvaders|Apache License 2.0|Gamified Chaos Engineering Tool for Kubernetes
+966|gofr-dev/gofr|Apache License 2.0|An opinionated Go framework for accelerated microservice development
+964|openGemini/openGemini|Apache License 2.0|An open source distributed time-series database with high concurrency, high performance, and high scalability
+963|pipe-cd/pipecd|Apache License 2.0|The One CD for All {applications, platforms, operations}
+953|schemahero/schemahero|Apache License 2.0|A Kubernetes operator for declarative database schema management (gitops for database schemas)
+947|Netis/cloud-probe|BSD 3-Clause "New" or "Revised" License|A Software Probe for network packet capturing and forwarding in Cloud/Kubernetes and Virtualized environment.
+943|kairos-io/kairos|Apache License 2.0|:penguin: The immutable Linux meta-distribution for edge Kubernetes.
+931|paralus/paralus|Apache License 2.0|All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.
+922|numaproj/numaflow|Apache License 2.0|Kubernetes-native platform to run massively parallel data/streaming jobs
+889|couler-proj/couler|Apache License 2.0|Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+888|kubeshop/tracetest|Other|🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
+886|bytecodealliance/wit-bindgen|Apache License 2.0|A language binding generator for WebAssembly interface types
+885|jreleaser/jreleaser|Apache License 2.0|:rocket: Release projects quickly and easily with JReleaser
+882|kube-green/kube-green|MIT License|A K8s operator to reduce CO2 footprint of your clusters
+879|replicatedhq/kots|Apache License 2.0|KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
+874|tinkerbell/tink|Apache License 2.0|Workflow Engine for provisioning Bare Metal
+872|glasskube/glasskube|Apache License 2.0|🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
+872|epsilla-cloud/vectordb|GNU General Public License v3.0|Epsilla is a high performance Vector Database Management System. Try out hosted Epsilla at https://cloud.epsilla.com/
+871|edgelesssys/constellation|GNU Affero General Public License v3.0|Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
+858|AthenZ/athenz|Apache License 2.0|Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.
+856|clastix/kamaji|Apache License 2.0|Kamaji is the Hosted Control Plane Manager for Kubernetes.
+855|open-gitops/project|Other|Repository for top-level information about the OpenGitOps project
+851|datenlord/datenlord|MIT License|DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system
+843|devstream-io/devstream|Apache License 2.0|DevStream: the open-source DevOps toolchain manager (DTM).
+839|FairwindsOps/rbac-lookup|Apache License 2.0|Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster
+831|in-toto/in-toto|Other|in-toto is a framework to protect supply chain integrity.
+831|apache/camel-k|Apache License 2.0|Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers
+823|LINBIT/linstor-server|GNU General Public License v3.0|High Performance Software-Defined Block Storage for container, cloud and virtualisation. Fully integrated with Docker, Kubernetes, Openstack, Proxmox etc.
+822|sodafoundation/api|Apache License 2.0|SODA Terra Project API module : is an open source implementation of SODA API connecting storage to platforms like Kubernetes, OpenStack, and VMware
+820|tremor-rs/tremor-runtime|Apache License 2.0|Main Tremor Project Rust Codebase
+814|nitrictech/nitric|Apache License 2.0|Nitric is a multi-language framework for cloud applications with infrastructure from code.
+803|v6d-io/v6d|Apache License 2.0|vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage)
+801|mosn/layotto|Apache License 2.0|A fast and efficient cloud native application runtime
+793|project-copacetic/copacetic|Apache License 2.0|🧵 CLI tool for directly patching container images using reports from vulnerability scanners
+789|k8gb-io/k8gb|Apache License 2.0|A cloud native Kubernetes Global Balancer
+769|banzaicloud/koperator|Apache License 2.0|Oh no! Yet another Apache Kafka operator for Kubernetes
+741|project-zot/zot|Apache License 2.0|zot - A production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+739|KusionStack/kusion|Apache License 2.0|Deliver intentions to Kubernetes and Clouds
+738|kubewharf/kubebrain|Apache License 2.0|A High Performance Metadata System for Kubernetes
+731|wa-lang/wa|GNU Affero General Public License v3.0|The Wa Programming Language: Simple, maintainable, compiled language for developing WebAssembly software
+730|opensergo/opensergo-specification|Apache License 2.0|Universal cloud-native microservice governance specification (微服务治理标准)
+727|cyberark/conjur|Other|CyberArk Conjur automatically secures secrets used by privileged users and machine identities
+725|merbridge/merbridge|Apache License 2.0|Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
+725|clusterpedia-io/clusterpedia|Apache License 2.0|The Encyclopedia of Kubernetes clusters
+724|aeraki-mesh/aeraki|Apache License 2.0|Manage any layer-7 protocols in a Service Mesh.
+722|kanisterio/kanister|Apache License 2.0|An extensible framework for  application-level data management on Kubernetes
+721|openmessaging/openmessaging-java|Apache License 2.0|OpenMessaging Runtime Interface for Java
+720|secureCodeBox/secureCodeBox|Other|secureCodeBox (SCB) - continuous secure delivery out of the box 
+718|mweagle/Sparta|MIT License|go microservices, powered by AWS Lambda
+717|replicatedhq/kURL|Apache License 2.0|Production-grade, airgapped Kubernetes installer combining upstream k8s with overlays and popular components
+712|curiefense/curiefense|Apache License 2.0|Curiefense is a unified, open source platform protecting cloud native applications.
+710|flomesh-io/pipy|Other|Pipy is a programmable proxy for the cloud, edge and IoT.
+700|open-telemetry/community|Apache License 2.0|OpenTelemetry community content
+691|serverlessworkflow/specification|Apache License 2.0|Serverless Workflow Specification
+673|carina-io/carina|Apache License 2.0|Carina: an high performance and ops-free local storage for kubernetes
+669|helmwave/helmwave|MIT License|New 🌊 wave for @helm
+664|vscode-kubernetes-tools/vscode-kubernetes-tools|Apache License 2.0|Kubernetes extension for Visual Studio Code
+653|kubewharf/kubezoo|Apache License 2.0|a lightweight kubernetes multi-tenancy gateway
+647|opengauss-mirror/openGauss-server|Mulan Permissive Software License, Version 2|openGauss kernel
+647|l7mp/stunner|MIT License|A Kubernetes media gateway for WebRTC. Contact: info@l7mp.io
+644|open-io/oio-sds|Other|High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift
+634|openshift/microshift|Apache License 2.0|A small form factor OpenShift/Kubernetes optimized for edge computing
+634|kubewharf/kubeadmiral|Apache License 2.0|Multi-Cluster Kubernetes Orchestration
+634|kubemq-io/kubemq-community|Apache License 2.0|KubeMQ is a Kubernetes native message queue broker
+631|flatcar/Flatcar|Apache License 2.0|Flatcar project repository for issue tracking, project documentation, etc.
+628|gefyrahq/gefyra|Apache License 2.0|Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.
+620|ngrok/ngrok-go|MIT License|Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
+618|teletrace/teletrace|Apache License 2.0|Open-Source Tracing Platform
+614|travis-ci/travis-web|MIT License|The Ember web client for Travis CI
+609|cloud-ark/kubeplus|Apache License 2.0|Kubernetes Operator to create self-service APIs from Helm charts for SaaS
+603|TritonDataCenter/manta|Mozilla Public License 2.0|Manta is a scalable HTTP-based object store
+595|grycap/scar|Apache License 2.0|Serverless Container-aware ARchitectures (e.g. Docker in AWS Lambda)
+583|Accenture/reactive-interaction-gateway|Apache License 2.0|Create low-latency, interactive user experiences for stateless microservices.
+574|inclavare-containers/inclavare-containers|Apache License 2.0|A novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem.
+568|megaease/easeagent|Apache License 2.0|An agent component for the Java system
+566|k8up-io/k8up|Apache License 2.0|Kubernetes and OpenShift Backup Operator
+562|NexClipper/NexClipper|Apache License 2.0|Metrics Pipeline for interoperability and Enterprise Prometheus
+556|PaladinCloud/CE|Apache License 2.0|Paladin Cloud is an extensible, cloud security platform for developers.  Join the community at https://discord.gg/xvCFD29Jj4
+553|eunomia-bpf/eunomia-bpf|MIT License|Build, Distribute and Run CO-RE eBPF programs easier with JSON and Webassembly OCI images
+545|apache/streampipes|Apache License 2.0|Apache StreamPipes - A self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
+543|scality/Zenko|Apache License 2.0|Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
+540|open-feature/spec|Apache License 2.0|OpenFeature specification
+539|uselagoon/lagoon|Apache License 2.0|Lagoon, the developer-focused application delivery platform
+534|kubedb/docs|Apache License 2.0|KubeDB Docs
+530|metal3-io/baremetal-operator|Apache License 2.0|Bare metal host provisioning integration for Kubernetes
+528|Apicurio/apicurio-registry|Apache License 2.0|An API/Schema registry - stores APIs and Schemas.
+527|cni-genie/CNI-Genie|Apache License 2.0|CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave 
+527|Keyfactor/ejbca-ce|GNU Lesser General Public License v2.1|EJBCA® – Open-source public key infrastructure (PKI) and certificate authority (CA) software. 
+522|xline-kv/Xline|Apache License 2.0|A geo-distributed KV store for metadata management
+518|inlets/inlets-pro|null|Secure HTTP and TCP tunnels that just work
+518|FabEdge/fabedge|Apache License 2.0|Secure Edge Networking Solution Based On Kubernetes
+512|vmware-tanzu/pinniped|Apache License 2.0|Pinniped is the easy, secure way to log in to your Kubernetes clusters.
+512|hwameistor/hwameistor|Apache License 2.0|Hwameistor is an HA local storage system for cloud-native stateful workloads. 
+509|tessi/wasmex|MIT License|Execute WebAssembly from Elixir
+509|megaease/easemesh|Apache License 2.0|A service mesh implementation for connecting,  control, and observe services in spring-cloud.
+500|vmware-labs/wasm-workers-server|Apache License 2.0|🚀 Develop and run serverless applications on WebAssembly
+496|Normation/rudder|GNU General Public License v3.0|Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
+495|apache/flink-statefun|Apache License 2.0|Apache Flink Stateful Functions
+489|updatecli/updatecli|Apache License 2.0|A Declarative Dependency Management tool
+486|alibaba/kubeskoop|Apache License 2.0|Network monitoring & diagnosis suite for Kubernetes
+484|cloudtty/cloudtty|MIT License|A Friendly Kubernetes CloudShell (Web Terminal) ! 
+482|kubedl-io/kubedl|Apache License 2.0|Run your deep learning workloads on Kubernetes more easily and efficiently.
+482|kubecube-io/KubeCube|Apache License 2.0|KubeCube is an open source enterprise-level container platform
+476|openclarity/apiclarity|Apache License 2.0|An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
+475|cyclops-ui/cyclops|Apache License 2.0|customizable UI for Kubernetes workloads  👁️
+474|cfengine/core|Other|CFEngine Community
+473|spidernet-io/spiderpool|Apache License 2.0|Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud
+465|direktiv/direktiv|Apache License 2.0|Serverless Container Orchestration
+464|loopholelabs/scale|Apache License 2.0|A framework for building high-performance plugin systems into any application, powered by WebAssembly.
+459|teamcode-inc/kubeorbit|Apache License 2.0|Test your application on Kubernetes in a brand new simple way⚡ 轻量高效的微服务本地联调测试工具
+457|parallaxsecond/parsec|Apache License 2.0|Platform AbstRaction for SECurity service
+451|second-state/wasmedge-quickjs|Apache License 2.0|A high-performance, secure, extensible, and OCI-complaint JavaScript runtime for WasmEdge.
+450|kubewharf/kubegateway|Apache License 2.0|Specific Layer7 Gateway for kube-apiserver
+448|kube-burner/kube-burner|Apache License 2.0|Kubernetes performance and scale test orchestration framework written in golang
+445|hyscale/hyscale|Apache License 2.0|HyScale is an Application Centric Abstraction Framework over K8s.
+445|hango-io/hango-gateway|Apache License 2.0|Hango API Gateway, build on Envoy & Istio.
+443|vmware-tanzu/cartographer|Apache License 2.0|Cartographer is a Supply Chain Choreographer.
+441|Juniper/contrail-controller|Apache License 2.0|Contrail Controller
+439|scalar-labs/scalardb|Apache License 2.0|Universal transaction manager
+436|eraser-dev/eraser|Apache License 2.0|🧹 Cleaning up images from Kubernetes nodes
+435|sigstore/sigstore|Apache License 2.0|Common go library shared across sigstore services and clients
+421|razee-io/Razee|Apache License 2.0|Overview and docs
+421|kubean-io/kubean|Apache License 2.0| :seedling: Product ready cluster lifecycle management toolchains based on kubespray and other cluster LCM engine.
+419|slime-io/slime|Other|An intelligent ServiceMesh manager based on Istio
+419|mulesoft/mule|Other|Mule Community Edition
+419|mewz-project/mewz|GNU General Public License v3.0|A unikernel designed specifically for running Wasm applications and compatible with WASI
+417|armadaproject/armada|Apache License 2.0|A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.
+415|Project-HAMi/HAMi|Apache License 2.0|Heterogeneous AI Computing Virtualization Middleware
+411|foniod/foniod|GNU General Public License v3.0|Data first monitoring agent using (e)BPF, built on RedBPF
+410|apioak/apioak|Apache License 2.0|Full Lifecycle Management API Gateway.
+404|WebAssembly/wasi-nn|null|Neural Network proposal for WASI
+393|seal-io/walrus|Apache License 2.0|Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others. It helps platform engineers build golden paths for developers and empowers developers with self-service capabilities. 
+387|casper-network/casper-node|Apache License 2.0|Reference client for CASPER protocol
+378|keylime/keylime|Apache License 2.0|A CNCF Project to Bootstrap & Maintain Trust on the Edge / Cloud and IoT
+369|filecoin-project/ref-fvm|Other|Reference implementation of the Filecoin Virtual Machine
+366|nokia/danm|BSD 3-Clause "New" or "Revised" License|TelCo grade network management in a Kubernetes cluster
+354|kubewharf/katalyst-core|Apache License 2.0|Katalyst aims to provide a universal solution to help improve resource utilization and optimize the overall costs in the cloud. This is the core components in Katalyst system, including multiple agents and centralized components
+349|openeuler-mirror/iSulad|null|[mirror]A light weight container runtime daemon for IOT and Cloud infrastructure.
+348|NetEase-Media/easy-ngo|Apache License 2.0|easy-ngo是由网易传媒开发的基于Go语言的开发工具包，基于easy-ngo工具包，开发者可以快速构建高可用、大并发的应用。
+346|piraeusdatastore/piraeus-operator|Apache License 2.0|The Piraeus Operator manages LINSTOR clusters in Kubernetes.
+337|microsoft/vscode-wasm|MIT License|A WASI implementation that uses VS Code's extension host as the implementing API
+336|openeuler-mirror/stratovirt|null|null
+331|ortelius/ortelius|Apache License 2.0|The mission of the Ortelius community is to expose weak links in the software supply chain by continuously gathering and analyzing software supply chain intelligence introduced across the DevOps pipeline and connected to your deployed environments.
+326|dispatchrun/timecraft|GNU Affero General Public License v3.0|The WebAssembly Time Machine
+323|canonical/maas|Other|Official MAAS repository mirror (may be out of date). Development happens in Launchpad (https://git.launchpad.net/maas/).
+315|vmware-labs/webassembly-language-runtimes|Apache License 2.0|Wasm Language Runtimes provides popular language runtimes (Ruby, Python, …) precompiled to WebAssembly that are tested for compatibility and kept up to date when new versions of upstream languages are released
+307|darxkies/k8s-tew|GNU General Public License v3.0|Kubernetes - The Easier Way
+304|deislabs/spiderlightning|MIT License|A set of WIT definitions and associated implementations to enable app developers to work at a faster pace and require less knowledge of the environment in which they are executing.
+299|kubermatic/kubecarrier|Apache License 2.0|KubeCarrier - Service Management at Scale 
+298|3scale/APIcast|Apache License 2.0|3scale API Gateway
+290|notaryproject/notation|Apache License 2.0|A CLI tool to sign and verify artifacts
+282|wso2/product-microgateway|Apache License 2.0|Choreo Connect is a cloud-native, open-source, and developer-centric API gateway.
+277|service-mesh-performance/service-mesh-performance|Apache License 2.0|Standardizing Service Mesh Value Measurement
+252|kubeclipper/kubeclipper|Apache License 2.0|Manage kubernetes in the most light and convenient way ☸️
+252|krkn-chaos/krkn|Apache License 2.0|Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project.
+251|cncf/landscapeapp|Apache License 2.0|🌄Upstream landscape generation application
+248|kubeshop/kusk-gateway|MIT License|Kusk-gateway is an OpenAPI-driven API Gateway for Kubernetes
+247|ligato/vpp-agent|Apache License 2.0|⚡️ Control plane management agent for FD.io's VPP
+242|open-cluster-management-io/api|Apache License 2.0|Core APIs for open cluster management
+241|keptn/lifecycle-toolkit|Apache License 2.0|Toolkit for cloud-native application lifecycle management
+233|devfile/api|Apache License 2.0|Kube-native API for cloud development workspaces specification
+226|kubestellar/kubestellar|Apache License 2.0|KubeStellar - a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-cloud, and hybrid cloud
+221|gear-tech/gear|GNU General Public License v3.0|Web3 Ultimate Execution Engine
+215|couchbase/manifest|Apache License 2.0|Top-level source repository for Couchbase Server source code and build projects
+203|opcr-io/policy|Apache License 2.0|CLI for building OPA policies into OCI images
+201|knix-microfunctions/knix|Apache License 2.0|Serverless computing platform with process-based lightweight function execution and container-based application isolation. Works in Knative and bare metal/VM environments.
+191|saarasio/enroute|Apache License 2.0|EnRoute Ingress API Gateway - Kubernetes-native, Ingress API Gateway Powered using Envoy
+185|cybozu-go/cke|Apache License 2.0|Cybozu Kubernetes Engine
+182|bytecodealliance/ComponentizeJS|Apache License 2.0|JS -> WebAssembly Component
+181|ipvm-wg/homestar|Apache License 2.0|Homestar is the individual node that makes up the Everywhere Computer network (similar to how IPFS Kubo, Iroh, Nabu, or other implementation nodes make up the IPFS network). It's written in Rust and is designed for performance and composability.
+177|kubewarden/kubewarden-controller|Apache License 2.0|Manage admission policies in your Kubernetes cluster with ease
+170|project-stacker/stacker|Apache License 2.0|Build OCI images natively from a declarative format
+160|architect/functions|null|AWS Lambda Node runtime helpers for Architect apps 
+157|krator-rs/krator|Apache License 2.0|Kubernetes Rust State Machine Operator
+153|bytecodealliance/registry|Apache License 2.0|WebAssembly Registry (Warg)
+149|sighupio/fury-distribution|BSD 3-Clause "New" or "Revised" License|Kubernetes Fury Distribution (Core Modules) - A battle-tested open-source Kubernetes distribution
+148|dylibso/observe-sdk|Apache License 2.0|Continuous runtime observablity SDKs to monitor WebAssembly code.
+147|cloudify-cosmo/cloudify-manager|Apache License 2.0|Cloudify's manager related code
+146|KWasm/kwasm-operator|Apache License 2.0|This Kubernetes Operators installs WebAssembly support on your Kubernetes Nodes
+143|charmed-kubernetes/bundle|Apache License 2.0|Charmed Kubernetes bundles. Report bugs at https://bugs.launchpad.net/charmed-kubernetes
+137|gravitee-io/gravitee-api-management|Apache License 2.0|Gravitee.io - OpenSource API Management
+136|digitalrebar/provision|Other|Docs, API bindings, clients and integrations supporting RackN Digital Rebar data center provisioning and workflow system.
+129|Azure/API-Management|null|Repository with Azure API Management release notes.
+128|wasmerio/vscode-wasm|MIT License|WebAssembly extension for VSCode
+128|confidential-containers/confidential-containers|Apache License 2.0|Confidential Containers Community
+119|cdevents/spec|Apache License 2.0|A common specification for Continuous Delivery events
+116|GoogleChromeLabs/asyncify|Apache License 2.0|Standalone Asyncify helper for Binaryen
+111|wasmerio/wai|Apache License 2.0|A language binding generator for `wai` (a precursor to WebAssembly interface types)
+104|openeuler-mirror/nestos-kubernetes-deployer|Apache License 2.0|null
+99|embrace-io/embrace-apple-sdk|GNU Affero General Public License v3.0|The Embrace SDK in Swift
+97|dylibso/modsurfer|Apache License 2.0|Devtools to validate, audit and investigate WebAssembly binaries.
+97|TheLunarCompany/lunar|MIT License|lunar.dev: Ground Control for 3rd Party APIs
+92|hexa-org/policy-orchestrator|Apache License 2.0|Hexa Policy Orchestrator enables you to manage all of your access policies consistently across software providers.
+86|openclarity/vmclarity|Apache License 2.0|VMClarity is a tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and vulnerabilities
+84|streamsets/datacollector-oss|Apache License 2.0|datacollector-oss
+76|openshift/kubernetes|Apache License 2.0|This is the repo that tracks all patches to the OpenShift distribution of Kubernetes on branches corresponding to OpenShift releases.  See https://github.com/openshift/kubernetes/blob/master/README.openshift.md for more
+73|centreon/centreon|Apache License 2.0|Centreon is a network, system and application monitoring tool. Centreon is the only AIOps Platform Providing Holistic Visibility to Complex IT Workflows from Cloud to Edge.
+62|cisco-open/camblet|MIT License|Fine-grained, zero-trust workload identity & access control​
+54|alvistack/ansible-collection-kubernetes|Apache License 2.0|Ansible collection for deploying Kubernetes
+52|airshipit/treasuremap|Apache License 2.0|Reference Airship manifests, CICD, and reference architecture.
+50|wasix-org/wasix-witx|null|WebAssembly System Interface
+45|projectsyn/commodore|BSD 3-Clause "New" or "Revised" License|Commodore provides opinionated tenant-aware management of Kapitan inventories and templates. Commodore uses Kapitan for the heavy lifting of rendering templates and resolving a hierachical configuration structure.
+44|elastisys/compliantkubernetes-apps|Apache License 2.0|Elastisys Compliant Kubernetes is an open source, Certified Kubernetes distribution designed according to the ISO27001 controls: providing you with security tooling and observability from day one.
+41|flomesh-io/fsm|Apache License 2.0|Lightweight service mesh for Kubernetes East-West and North-South traffic management, uses ebpf for layer4  and pipy proxy for layer7 traffic management, support multi cluster network. 
+37|second-state/dapr-sdk-wasmedge|Apache License 2.0|An experimental Dapr SDK in Rust. It is designed to run in WasmEdge applications.
+25|aserto-dev/runtime|Apache License 2.0|an abstraction library on top of OPA
+24|konveyor/operator|Apache License 2.0|Konveyor Operator fully manages the deployment and life cycle of Konveyor (formerly Tackle) on Kubernetes and OpenShift.
+24|alvistack/vagrant-kubernetes|Apache License 2.0|Vagrant Box Packaging for Kubernetes
+18|WebAssembly/wasi-logging|null|WASI logging API
+16|starlingx/config|Apache License 2.0|StarlingX System Configuration Management
+16|shipwright-io/community|Apache License 2.0|Community documentation for Shipwright
+15|cloudmatos/matos|MIT License|Matos is an open-source cloud security tool for analyzing multi-cloud infrastructure security.
+14|aceeric/desktop-kubernetes|Apache License 2.0|Stands up a multi-VM Kubernetes development cluster on your Linux desktop using VirtualBox or KVM, by running a single Bash script. A config yaml supports different cluster configs.
+12|second-state/witc|Apache License 2.0|wasm-interface-types supplement & compiler of wasmedge
+12|networkservicemesh/api|Apache License 2.0|null
+12|EnterpriseDB/cloudnative-pg|Apache License 2.0|CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+10|mia-platform/distribution|Apache License 2.0|Mia-Platform distribution for Kubernetes day two operation
+5|catalyst-cloud/magnum|Apache License 2.0|Container Infrastructure Management Service for OpenStack
+3|Wind-River/starlingx-config|Apache License 2.0|A github mirror of https://github.com/starlingx/config
+3|K-PaaS/container-platform|Apache License 2.0|null
+2|kapetacom/kapeta|MIT License|Main entry repository - the gateway to everything else
+0|alexeadem/qbo-home|MIT License|null
