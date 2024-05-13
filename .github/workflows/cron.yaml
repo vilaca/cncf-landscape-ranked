@@ -1,8 +1,7 @@
 name: Get daily stats
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
+    branches: [ "*" ]
 jobs:
   cron:
     runs-on: ubuntu-latest
@@ -32,6 +31,16 @@ jobs:
         # Cleanup
         rm unsorted-$FILENAME
         rm landscape.yaml
+
+    - name: Rank
+      env:
+        PAT: ${{ secrets.PAT }}
+      shell: bash
+      run: |
+        export FILENAME=$(./utils/today.sh)
+        export OLDER_FILENAME=$(./utils/today.sh)
+
+        go run rank.go archive/$OLDER_FILENAME archive/$FILENAME > README.md
 
     - name: Extract branch name
       shell: bash
