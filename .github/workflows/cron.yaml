@@ -38,7 +38,7 @@ jobs:
       shell: bash
       run: |
         export FILENAME=$(./utils/today.sh)
-        export OLDER_FILENAME=$(./utils/today.sh)
+        export OLDER_FILENAME=$(./utils/sevenDaysAgo.sh)
 
         go run rank.go archive/$OLDER_FILENAME archive/$FILENAME > README.md
 

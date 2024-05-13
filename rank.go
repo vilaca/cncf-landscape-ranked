@@ -72,6 +72,8 @@ func main() {
 		fmt.Fprintln(os.Stderr, "error:", err)
 		os.Exit(1)
 	}
+	fmt.Printf("<sup>Compiled using https://landscape.cncf.io/</sup>\n")
+
 	fmt.Println("| |Repository|Stars|")
 	fmt.Println("|:---:|:---|:---:|")
 	fmt.Println(concatenatedText)
@@ -80,5 +82,5 @@ func main() {
 	month := now.Month()
 	year := now.Year()
 	date := fmt.Sprintf("%d/%s/%d", day, month, year)
-	fmt.Printf("<sub>This list is compiled automatically using Go, Github Actions and the Github API and was last updated on %s.</sub>\n", date)
+	fmt.Printf("<sub>Last updated on %s.</sub>\n", date)
 }
